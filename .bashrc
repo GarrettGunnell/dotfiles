@@ -6,7 +6,11 @@ alias gs='git status'
 alias ga='git add .'
 alias gp='git push'
 alias gi='git init'
+alias gc='git commit -m'
 
 # Leftover aliases from default Git configuration
 alias ls='ls -F --color=auto --show-control-chars'
 alias ll='ls -l'
+
+# Go
+alias gb='go build'
