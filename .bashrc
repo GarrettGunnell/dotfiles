@@ -17,4 +17,5 @@ alias ls='ls -F --color=auto --show-control-chars'
 alias ll='ls -l'
 
 # Go
-alias gb='go build'
+alias gob='go build'
+alias goi='go install'
