@@ -1,0 +1,5 @@
+[user]
+	email = gunnellg@oregonstate.edu
+	name = Garrett Gunnell
+[core]
+	editor = 'C:\\Program Files\\Sublime Text 3\\sublime_text.exe' -w
