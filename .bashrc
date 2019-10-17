@@ -1,3 +1,7 @@
+# Go PATH Environment Variables
+export GOPATH=$HOME/OneDrive/Documents/go
+export PATH=$PATH:$GOPATH/bin
+
 alias a="source ~/.bash_profile"
 alias aa="source ~/.bashrc"
 
