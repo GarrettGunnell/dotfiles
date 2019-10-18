@@ -19,4 +19,4 @@ alias ll='ls -l'
 # Go
 alias gob='go build'
 alias goi='go install'
-alias cdgo='cd OneDrive/Documents/go/src/github.com/GarrettGunnell'
+alias cdgo='cd ~/OneDrive/Documents/go/src/github.com/GarrettGunnell'
